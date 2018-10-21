@@ -1,0 +1,250 @@
+1	Aesthetica
+2	AriaStarrBeauty
+3	Beauty Treats
+4	CITY
+5	Clean & Clear
+6	Coosa
+7	Coty
+8	DHC
+9	e.l.f. Cosmetics
+10	First Botany Cosmeceuticals
+11	Graftobian
+12	HIGHROCK
+13	Hmxpls
+14	Isagenix
+15	Italia Deluxe
+16	Jerzees
+17	Jmkcoz
+18	Kangaroo
+19	Kleancolor
+20	Komocare
+21	L.A. Girl
+22	Manic Panic
+23	Maybelline New York
+24	Mefeir
+25	Mehron
+26	MIA ADORA
+27	Minkle
+28	Monster Brushes
+29	Neutrogena
+30	New York Biology
+31	NYX
+32	OCuSOFT
+33	Onyx Professional
+34	OPI
+35	ORGANYC
+36	Pinky Petals
+37	Pure Body Naturals
+38	Purely Naturals
+39	Radha Beauty
+40	Real Techniques
+41	Sacha Cosmetics
+42	Savvi
+43	Sihouette
+44	Sports Research
+45	Temporary Tattoos
+46	UV Glow
+47	Viva Labs
+48	Voronajj
+49	Wunder2
+50	L'Oreal Paris
+51	"Morphe Brushes
+  Morphe Brushes"
+52	ACEVIVI
+53	"Lash Factory
+Lash Factory"
+54	Stila
+55	Liquid Latx Fashions
+56	richbest
+57	Global Colours BodyArt
+58	Aveeno
+59	Bare Escentuals
+60	BLUETTEK
+61	W7
+62	Emori (TM)
+63	Technic
+64	bestpriceam
+65	Lamora
+66	UCANBE
+67	Start
+68	WindMax
+69	Physicians Formula
+70	JOLY
+71	Canserin
+72	SHANY Cosmetics
+73	LuckyFine
+74	Revlon
+75	Coastal Scents
+76	Morphe Brushes
+77	city color
+78	N.Y.C.
+79	iLoveCos
+80	Elizabeth Mott
+81	Lagure
+82	Mallofusa
+83	Joylive
+84	Karity Cosmetics
+85	Amazing2015
+86	Tmalltide
+87	Madelaine Chocolate Company
+88	Beautiful By Design
+89	Nivea
+90	E-TDPAC
+91	WILLTOO
+92	Burt's Bees
+93	Dermelect
+94	G2Plus
+95	Fun Express
+96	Blistex
+97	Leegoal
+98	Softlips
+99	Kiki
+100	Burt's Bees Lip Gloss
+101	COVERGIRL
+102	Binmer(TM)
+103	Super Z Outlet
+104	Smosee®
+105	ChopSaver
+106	Babyganics
+107	Aquaphor
+108	Vaseline
+109	Princessa
+110	Yes to Coconut
+111	Outtop
+112	LA Girl USA Cosmetics
+113	Laneige
+114	Fun Land
+115	Dermatone
+116	Eos Evolution Of Smooth
+117	Wack-o-wax
+118	CHOP
+119	SoftNLux
+120	Feng Shui Import
+121	Airblasters
+122	BHCosmetics
+123	2nd Love
+124	MLMSY
+125	Disney
+126	Wet 'n Wild
+127	Sungpunet
+128	Pure
+129	DATEWORK
+130	Spdoo
+131	Bobbi Brown
+132	COSCELIA
+133	Okalan
+134	KOLIGHT
+135	Sephora
+136	Heigift
+137	Marc Jacobs Beauty
+138	Golden Banana
+139	Soap & Glory
+140	FASH Limited
+141	Ulta
+142	eshion
+143	Fheaven
+144	Kryolan
+145	joyliveCY
+146	Sonia Kashuk
+147	Garnier
+148	Majestic Pure
+149	ArtNaturals
+150	Simple
+151	Clinique
+152	Thayer's
+153	Beauty by Earth
+154	Beautify Beauties
+155	Epielle
+156	Bioderma
+157	STS
+158	Makeup Eraser
+159	Mary Kay
+160	Pond's
+161	Diamond
+162	Banila co.
+163	The Face Shop
+164	Almay
+165	Sensibio
+166	Yes To Grapefruit
+167	Philosophy
+168	Miracle Face Erase
+169	HDC
+170	Nursery
+171	PleasingCare
+172	Bifesta
+173	ViDi
+174	Estee Lauder
+175	Thinkpichaidai
+176	BR
+177	Cameo
+178	Hard Candy
+179	SusenstoneÂ®610
+180	EmaxDesign
+181	Vermont Country Shop (Makeup Selection Gift Set)
+182	Ivation
+183	BS-MALL
+184	Zeagoo
+185	Loreal Maybelline NYX
+186	MiroPure
+187	Nestling
+188	BR Cosmetics
+189	Queentools
+190	Seya Beauty
+191	USpicy
+192	Hotrose®
+193	Vander
+194	ETA Cosmetics
+195	Glow
+196	Yoseng
+197	UNIMEIX
+198	TINKSKY
+199	My Party Helpers
+200	Kleancolor Nail Lacquer
+201	VAGA
+202	ONWON
+203	Glam Hobby
+204	Sally Hansen
+205	Piggy Paint
+206	KBShimmer
+207	SAB nails
+208	Unbranded
+209	CLAVUZ
+210	Sinful
+211	Quimica Alemana
+212	"ILNP Cosmetics, Inc."
+213	So Beauty
+214	MAVALA
+215	Maybelline
+216	Biutee
+217	Lucks
+218	HD Design
+219	Qimisi
+220	WUNDERBROW
+221	Freedi
+222	Jemma Kidd 
+223	kylie
+224	Laimeng
+225	Lakme
+226	Biotique
+227	Rimmel
+228	Evologie
+229	Natural Logix
+230	Kleem Organics
+231	Olay
+232	Eau De Mer
+233	Sky Organics
+234	Noix de Coco
+235	kiko milano
+236	Sunmy
+237	Kylie Jenner Birthday Kit
+238	essie
+239	China Glaze
+240	Indexu
+241	Mosunx
+242	Tarte
+243	Dermacol
+244	Ochine
+245	Shimarz
+246	Mineral Fusion
+247	Milano
+248	Emubody

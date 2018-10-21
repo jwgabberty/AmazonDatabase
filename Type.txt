@@ -1,0 +1,16 @@
+1	Dresses
+2	Tops&Tees
+3	Sweaters
+4	Fashion Hoodies&Sweatshirts
+5	Jeans
+6	Pants
+7	Skirts
+8	Shorts
+9	Leggings
+10	Active
+11	Swimsuits&Cover Ups
+12	"Lingerie,Sleep&Lounge"
+13	"Jumpsuits,Rpmpers&Overalls"
+14	"Coats,Jackets&Vests"
+15	Suiting&Blazers
+16	Socks&Hosiery

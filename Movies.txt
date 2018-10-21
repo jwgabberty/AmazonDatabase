@@ -1,0 +1,486 @@
+MovieTitle	Genre_ID	Studio_ID	Format_ID	Director_ID
+The Last Emperor	8	10	4	329
+Spectre	1	39	4	398
+105	1	1	9	447
+Mission: Impossible - Rogue Nation	1	8	4	363
+Notting Hill	14	30	4	335
+The Boondock Saints	1	5	10	62
+Zootopia	2	43	1	451
+Tom and Jerry	2	15	2	471
+A Goofy Movie	2	43	8	8
+Girl	14	28	6	482
+The Three Muskeeters	2	43	1	117
+Kabhi Khushi Kabhi Gam	3	45	10	204
+Dilwale Dulhania Le Jayenge	3	46	8	234
+Veer Zara	3	46	6	282
+Tanu Weds Manu	3	44	2	189
+Mohabbatein	3	46	1	108
+Bad Moms	4	34	1	276
+Hocus Pocus	4	34	4	38
+Boy A	14	47	9	352
+Happy Gilmore	4	31	3	273
+Austin Powers:The Spy Who Shagged Me	4	15	7	15
+Carol	5	47	2	357
+Concussion	5	48	1	125
+Citizenfour	6	48	8	83
+To Joey With Love	6	34	3	127
+21st Century Warship	6	4	11	126
+No Place On Earth	6	16	4	133
+Before the Flood	6	33	10	402
+Good Girls Revolt	7	25	6	215
+Eye in the Sky	7	21	8	454
+Love and Friendship	7	25	6	358
+Pride and Predudice	7	30	7	257
+Finding Dory	8	36	5	415
+The Spiderwick Chronicles	8	8	2	8
+Odd Squad	8	3	10	406
+Beethoven	8	31	7	340
+Tarzan	8	1	11	86
+Chocolat	14	1	5	398
+Ondine	9	16	9	481
+Meet Joe Black	9	31	9	409
+Black Death	9	23	9	432
+German Angst	9	13	11	360
+Captive	10	8	10	432
+Christmas Lodge	10	24	5	148
+Risen	10	10	1	28
+Angel in the House	10	18	6	301
+Where Hope Grows	10	11	5	330
+The Neon Demon	11	25	10	471
+The Gift	11	8	8	305
+The Witch	11	6	7	54
+Misery	11	15	1	183
+The Addams Family	11	8	5	215
+Driving in my Car	12	29	11	236
+Itsy Bitsy Spider	12	26	11	58
+Five Little Monkeys	12	26	8	417
+Ryan Bingham Live	12	29	11	320
+Katy Perry	12	14	4	25
+Complete Unknown	13	25	10	55
+Heist	13	1	2	178
+Across the Line	13	28	6	282
+Fletch	13	31	11	206
+Goldeneye	13	39	8	72
+The Captive	13	6	1	95
+Across the Sea	14	17	1	132
+Up in the Air	14	27	11	500
+A Christmas Kiss	14	24	10	73
+The American President	14	15	11	345
+Still Mine	14	49	8	434
+Not Since You	14	50	3	291
+The Kicks- Season 1	15	25	3	274
+Hitting the Apex	15	51	10	360
+Eight Men Out	15	39	4	102
+The Fourth Phase	15	52	7	186
+When They Were Young	15	53	4	291
+Yoga for Beginners	16	54	3	487
+Jillian Michaels: Yoga Meltdown	16	1	3	303
+Shazzy Fitness: In the Beginning	16	55	7	88
+Fitness Kickboxing Workout	16	40	2	203
+21 Day Transformation: Season 1	16	40	5	277
+Yoga For All	16	55	2	414
+The Expandables 3	17	1	6	76
+William Kelly's War	17	28	8	466
+Thunderball	17	39	2	163
+The Wedding Pact	14	64	5	500
+The Hunt for Red October	17	8	8	237
+The Dogs of War	17	39	8	324
+Quigley Down Under	18	39	2	443
+Bone Tomahawk	18	56	2	260
+Black Field	18	56	10	137
+The Revenant	18	57	2	295
+Common Outlaws	18	58	8	444
+Breakheart Pass	18	39	2	449
+Earth in 1000 Years	19	4	2	52
+The Stone Age Puzzle	19	59	1	92
+Obvious Child	14	6	2	113
+The Rosetta Mission	19	59	3	101
+No Man's Island	20	17	10	351
+The Dark House	20	60	4	51
+Mystery of the Fairy Circles	20	59	1	373
+Priceless	20	49	7	4
+Annie	21	10	8	18
+Jonah: A VeggieTales Movie	21	1	1	418
+Cinderella	21	49	10	398
+Tangled	21	43	3	213
+Aladdin	21	43	9	185
+Frozen Fever	21	2	6	368
+Angelina Ballerina: Ballet Dreams	21	1	1	502
+Love & Mercy	21	1	2	243
+Rio 2	21	57	7	288
+The Sound of Music	21	5	7	362
+Ma Ma	20	61	1	17
+Coriolanus	20	47	5	203
+13 Assassins (English Subtitled)	20	16	1	369
+Road to Your Heart	20	55	9	70
+A Royal Affair (English Subtitled)	20	16	10	423
+Goodnight Mommy	20	47	8	460
+Equals	23	6	1	128
+Star Trek Beyond	23	42	2	263
+Interstellar	23	42	9	268
+The Hunger Games: Mockingjay Part 1	23	1	4	24
+Independence Day: Resurgence	23	5	7	123
+Terminator: Genisys	23	8	2	297
+Scents and Sensibility	14	65	7	313
+Mutant Chronicles	23	16	6	502
+Humans	23	10	6	54
+Tremors	23	31	8	284
+Life on Us: A Microscopic Safari	19	4	2	232
+Faithful Polygamists	19	4	11	393
+Zoo Babies	19	4	6	406
+Deep Diving: Earth Unexplored	19	4	10	410
+Scorpions - Death on 8 Legs	19	59	1	92
+The Grand Tour Season 1	22	25	5	424
+Teen Mom Season 15	22	44	10	106
+The Pedophile Hunter	22	4	8	381
+Gold Rush Season 7	22	4	4	52
+The Other Side	22	4	3	101
+I'm a Stripper	22	25	3	128
+Urban Legends	22	4	8	234
+The Fashion Fund - Season 3	22	4	8	417
+"""Survivor, Season 28 (Cagayan)"""	22	25	9	464
+Ghost Hunters	22	4	2	272
+RuPaul's Drag Race Season 5	22	4	7	226
+The Bay (Remastered)	24	62	9	183
+Infieles	24	59	5	172
+Melrose Place Season 1	24	59	3	462
+Star Trek Beyond (DVD)	23	1	5	119
+Hillary's America [DVD + Digital]	6	57	10	459
+The Secret Life of Pets	8	61	8	108
+Harry Potter: The Complete 8-Film Collection	23	17	2	206
+The Legend of Tarzan (Special Edition)	8	47	1	291
+Marvel's Captain America: Civil War (DVD)	23	60	5	22
+Ghostbusters	23	59	5	380
+Independence Day Resurgence	23	16	4	42
+The Nightmare Before Christmas	20	49	7	207
+X-men: Apocalypse	23	55	8	177
+War Room	6	16	2	2
+Ice Age 5: Collision Course	8	47	8	54
+Jason Bourne	1	6	3	475
+Sully (DVD)	6	42	4	343
+Frozen	8	1	9	206
+Alice Through the Looking Glass	8	5	1	324
+The Little Mermaid (Diamond Edition)	8	8	9	399
+The Jungle Book DVD	8	10	6	57
+Gilmore Girls: Seasons 1-7	22	16	9	317
+Beetlejuice (20th Anniversary Deluxe Edition)	24	10	2	243
+Suicide Squad (DVD)	22	31	11	56
+Finding Nemo	8	42	2	284
+Miracles from Heaven	21	42	10	424
+The Polar Express (Widescreen Edition)	8	1	8	364
+9	1	5	6	360
+Let It Snow	14	8	7	391
+Me Before You (DVD)	14	10	10	332
+Inside Out (1-Disc DVD)	8	16	6	300
+Book of Life	8	10	9	470
+Central Intelligence (DVD)	1	31	4	393
+Young Frankenstein	1	10	4	267
+Beauty And The Beast	1	1	8	294
+Jack Reacher: Never Go Back	25	49	5	211
+Sound of Music 50th Anniversary Edition	25	43	9	416
+National Lampoon's Christmas Vacation	25	43	4	386
+Guardians Of The Galaxy	1	2	8	270
+Holiday Romance Collection Movie 10 Pack	1	1	7	361
+Hell Or High Water [DVD + Digital]	1	1	5	492
+Crown for Christmas	25	57	2	424
+The Original Christmas Classics Gift Set	25	5	6	34
+Sausage Party	25	61	9	1
+Vaxxed: From Cover-Up to Catastrophe	27	17	2	453
+Anthropoid	27	47	4	194
+Shopkins Chef Club	27	60	6	480
+Wizard of Oz: 75th Anniversary (DVD)	27	59	11	170
+Captain Fantastic	24	16	3	230
+Paw Patrol	27	49	8	354
+The Magnificent Seven (2016)	27	16	8	67
+The Good Dinosaur DVD	26	47	7	231
+Willy Wonka & the Chocolate Factory	26	6	1	488
+A Christmas Story (Full-Screen Edition)	26	42	4	331
+Deadpool	1	42	9	206
+Mr. Church	26	1	6	422
+The Accountant	26	5	8	32
+Nerve	28	8	10	12
+Elf (Infinifilm Edition)	28	10	9	217
+STAR WARS The Complete Saga Episodes 1 - 6	25	16	6	133
+The Last Word	4	21	9	83
+The Salesman	7	25	6	359
+Daniel Tiger's Neighborhood: Tiger Family Trip	8	3	10	26
+The Hornet's Nest	17	66	3	172
+Ghost in the Shell (2017)	7	42	7	186
+Ladies in Lavender	7	49	5	381
+The LEGO Batman Movie	8	15	8	423
+Contract Killer	29	67	3	441
+Ekaterina: The Rise of Catherine the Great	7	25	9	138
+The Boss Baby	8	27	2	383
+King Arthur: Legend of the Sword	7	15	4	131
+Descendants 2	8	25	11	270
+Where The Red Fern Grows	8	68	1	116
+The Current	7	68	6	114
+John Wick Chapter 2	1	69	1	398
+Smurfs: The Lost Village	9	70	7	83
+CHiPs	4	15	11	13
+Logan	1	5	2	336
+The Passing	11	62	10	510
+The Zookeeper's Wife	7	71	6	478
+Snatched	4	5	8	276
+Beer League	15	13	7	126
+Western World	18	66	3	380
+The Island	7	72	5	373
+The Moors Murders	6	73	6	495
+Get Out	29	74	3	87
+2:22	29	16	5	245
+Little Kelly - Minecraft School	8	74	10	477
+The Choice	7	1	9	477
+Many Beautiful Things	7	62	1	400
+A Hologram For The King	4	1	8	357
+13 Hours: The Secret Soldiers of Benghazi	17	8	1	114
+Me Before You	7	75	7	260
+The Duel	7	1	6	167
+Teenage Mutant Ninja Turtles: Out Of The Shadows	1	8	9	496
+Hell House LLC	11	76	4	214
+Top Science Stories Of 2016	6	77	2	84
+The Mummy 2017	7	1	1	429
+Tristan Dubois	32	79	7	225
+Rust	7	80	5	287
+The Lucky Ones	34	1	6	275
+Staying Together	7	39	4	132
+Sliding Doors	35	8	8	472
+Waking	35	81	3	313
+Rising Star	36	13	10	60
+The New Yea	37	82	7	399
+Pursuit of Happiness	38	83	7	474
+Pursuit of Happiness (2001)	38	83	2	35
+Can't Be Heaven	39	13	4	185
+Don't Pass Me By	7	84	6	70
+End Times	6	85	10	202
+Bad Seed	41	89	4	232
+Reasonable Doubt	29	1	9	133
+The Sunset Limited	7	90	4	122
+Animal 2	42	91	10	504
+Disposable	31	92	1	322
+Profile of a Killer	29	81	7	172
+The Gray Man	43	91	4	243
+The Boston Strangler (2008)	30	1	7	184
+Diary of a Serial Killer	44	13	4	71
+Absolution (1981)	31	93	5	173
+Albert Fish	45	94	2	192
+Head Cases: Serial Killers In The Delaware Valley	46	95	6	291
+Mass Murder	30	96	9	136
+Abominations of Humanity	47	85	6	266
+Bazaar Bizarre	48	97	4	421
+13 Times Evil	45	84	7	257
+10 Most Evil Serial Killers	49	84	6	72
+Fishing Naked	50	84	7	382
+Bonobo	37	84	9	383
+Garden of Eden	7	98	10	76
+Sex Madness: Classic Drama	7	99	5	62
+Hecto Pascal: Sensual Callgirl	36	100	1	474
+Frisky	37	84	5	394
+Lost on the Bohemian Road	4	101	11	285
+Hip Hot And 21	7	98	1	496
+Hindi Medium	51	102	3	71
+Kapoor & Sons (Since 1921)	37	45	9	422
+Badrinath Ki Dulhania	52	103	6	138
+OK Jaanu	53	103	10	17
+What matters most	7	108	6	412
+No Boundaries	53	109	2	365
+The Big Heart of Girls	54	17	3	334
+Creed	55	39	10	94
+Rocky IV: The American Punch	56	113	2	283
+Street	40	114	6	225
+Blood Sport IV: The Dark Kumite	57	1	9	176
+Overkill (1996)	58	115	1	461
+Breathing Fire	59	116	3	107
+Champion Road: Arena	60	117	9	429
+The Fighter's Ballad	7	17	9	431
+Raw Target	58	115	1	415
+Ninja Champion (1983)	61	93	4	285
+Tumble Leaf	62	25	3	370
+The Stinky & Dirty Show	62	118	11	273
+Moana (2016) (With Bonus Content)	64	121	7	43
+Daddy's Home	4	8	2	415
+Hot Pursuit	66	39	1	4
+Barbershop: The Next Cut	4	39	4	271
+Dirty Grandpa (Unrated)	63	1	8	256
+The Escort	36	122	11	115
+Lap Dance	7	123	10	283
+Fantastic Beasts and Where to Find Them	67	124	9	362
+Guardians of the Galaxy Vol. 2 (Theatrical)	60	125	2	342
+Alien: Covenant	13	5	11	156
+Alien	68	5	9	167
+Ant-Man (Plus Bonus Features)	70	127	9	39
+Marvel's The Avengers: Age Of Ultron (Plus Bonus Features)	71	126	7	70
+Thor: The Dark World (With Digital-Exclusive Bonus Features)	72	128	6	157
+Iron Man 3 (Plus Bonus Content)	71	127	2	291
+Iron Man 2	73	129	4	329
+The Incredible Hulk	70	131	8	445
+Max Payne	74	132	11	157
+Inkheart	75	133	7	446
+Watchmen	76	124	11	504
+Fallen	54	15	10	187
+Morganville	77	134	5	153
+The Living and the Dead	63	67	5	314
+So Dark	30	135	10	359
+The Curious Case of Benjamin Button	35	8	1	65
+The Brand New Testament	78	22	11	83
+Vincent Has No Scales	79	110	3	320
+Last Winter	7	110	9	502
+The Queen of Clubs	54	110	9	413
+Face Down	7	110	5	349
+Blow A Kiss	42	136	1	283
+Restitution Road	31	137	9	150
+Haima	80	138	8	346
+Illuminatus	81	139	11	108
+Ballad in Blood	82	140	8	427
+M?ll	7	141	3	508
+Ghost Hospital	11	139	4	138
+Hellbent	83	142	5	433
+Satanic Meat Cleaver Massacre	11	100	10	183
+Reality Terror Night	11	144	7	262
+What Lies Beyond... The Beginning	86	139	11	267
+Night Claws	11	146	11	173
+Beast of the Yellow Night	11	98	3	195
+Giant Claws	11	55	8	50
+The Hunger Games: Mockingjay	60	1	8	189
+"""Mortal Instruments, The: City of Bones"""	89	147	8	148
+The Duff	89	147	5	466
+Easy A	90	147	2	268
+She's The Man	91	8	3	347
+Sydney White	92	31	2	83
+John Tucker Must Die	38	5	5	239
+The Hot Chick	93	148	1	473
+You Don't Mess With The Zohan	4	10	1	278
+Year One Unrated	94	10	8	56
+Inferno	31	10	7	35
+The Company You Keep	74	150	8	281
+Stone	74	151	3	242
+12 Rounds 3 Lockdown	97	1	9	259
+I am Wrath	40	1	10	386
+Blood Father	40	1	10	31
+Brooklyn's Finest	74	151	10	485
+State Property 2	98	1	2	318
+Paid In Full	59	1	8	379
+The Wood	90	153	5	59
+First Sunday	37	147	6	62
+The Perfect Guy	41	154	4	103
+Obsessed	99	147	4	510
+Don't Breathe	82	154	3	494
+Intruders	30	87	5	323
+Eloise	11	155	1	262
+Nothing Left to Fear	11	152	6	8
+The People Under the Stairs	100	30	3	484
+Hell Town: Classic John Wayne Western	101	102	11	55
+A Man Called Horse	102	156	7	122
+Big Jake	103	156	3	268
+McLintock - Producer's Edition	104	8	8	445
+Sands of Iwo Jima	105	42	11	108
+John Wayne: Cold Vengeance (In Color)	106	157	10	415
+Forgotten Pistolero	106	142	5	458
+Shango	107	158	3	86
+Killer Kid	108	142	2	228
+Camp Rock	109	79	6	358
+Princess Protection Program	110	159	8	144
+Wizards of Waverly Place The Movie	111	160	7	88
+The Suite Life Movie	112	160	4	111
+A Fairly OddParents Movie: Grow Up Timmy Turner	64	161	11	61
+Rufus	109	162	10	292
+School of Rock	113	161	2	117
+BUNNICULA	64	161	9	17
+Cartoon Network: HOLIDAYPASS	114	70	10	232
+Norm Of The North	62	1	3	392
+The Nut Job	115	131	6	284
+Pup 2 No Good	62	114	9	405
+My Friend Bernard	62	163	2	419
+Bold Eagles	116	64	1	297
+The Nutcrackers	62	164	4	487
+Space Dogs	115	163	10	92
+The True Story of Puss'N Boots	86	163	1	329
+Down On The Farm	62	84	2	138
+Fishtales	47	165	6	333
+Pororo to the Cookie Castle	47	166	7	47
+A Man Called Ove	51	22	7	212
+Elizabeth's Gift	7	68	1	93
+Beyond Acceptance	7	68	6	497
+Slow Fade	54	68	6	161
+Daniel's Lot	7	68	3	12
+Unexpected Places	117	68	11	99
+Angels In Our Midst	7	68	11	314
+So Help Us God	33	167	2	303
+Charge Over You	118	68	6	227
+Gabby's Wish	37	168	5	191
+Uphill Battle	7	68	7	8
+A Letter to Dad	33	170	9	335
+The Young Believers	7	68	3	96
+Totality: The American Eclipse	47	171	4	134
+Kingdom of Saturn: Cassini's Epic Quest	6	113	5	217
+Chef	37	172	7	176
+Three Stars	6	173	8	344
+Great Chefs: Jazz Brunch	47	174	4	244
+Great Chefs of the West	47	87	2	236
+Daawat-e-Ishq (English Subtitled)	90	175	7	77
+Bewakoofiyaan	36	46	10	369
+Mere Brother Ki Dulhan	60	46	7	263
+Mere Yaar Ki Shaadi Hai	38	46	3	189
+Thoda Pyaar Thoda Magic	120	46	6	108
+Ladies vs Ricky Bahl	121	46	2	344
+Dil To Pagal Hai	53	46	10	69
+Rab Ne Bana Di Jodi	122	175	8	429
+Dum Laga Ke Haisha	36	46	6	73
+Hum Tum	53	46	2	407
+Dhoom 2	58	46	8	488
+Jab Tak Hai Jaan	123	46	5	415
+"""Stephen King, IT!"""	85	177	7	406
+Spider Woman	11	158	2	388
+The Naked Witch	11	98	10	329
+Summer Lake Massacre	11	178	7	148
+Milfs Vs. Zombies	11	139	2	472
+Bigfoot Horror Camp	86	178	3	233
+Drive-In Splatter House	124	179	2	313
+Spirit Camp	86	180	3	60
+Decampitated	86	181	11	171
+Creepy Tales: Girls Night Out	85	119	2	231
+Nightmare in Suburbia	11	182	9	83
+Demon Kiss	11	183	3	126
+666 A Demon Within	11	84	5	168
+Spell (English Subtitled)	124	184	4	483
+Fatal Beauty (English Subtitled)	85	91	2	410
+Lipstick (English Subtitled)	41	97	7	368
+Rust (English Subtitled)	31	17	2	28
+Mother's Vengeance (English Subtitled)	31	185	9	218
+Crocodile (English Subtitled)	7	185	6	273
+Nothing Left	82	91	2	277
+Hangman	11	17	3	347
+The Cutting Room	82	55	5	431
+Creeper	11	186	4	510
+Atlantic Rim	125	187	4	314
+RoboCop: Prime Directives - Resurrection	125	115	5	457
+RoboCop: Prime Directives - Dark Justice	125	115	8	389
+Robo Vampire 2: Devil's Dynamite	60	158	6	54
+Legendary Strike	60	158	1	31
+One Foot Crane	60	158	4	19
+Triumph By Two Kung Fu Arts	60	158	4	241
+Revenge of the Dragon	60	13	2	327
+Ninjitsu	60	158	3	411
+Single Fighter	42	158	3	420
+Panama	53	17	7	47
+A Scandalous Journey	126	17	2	87
+Intimacy	7	185	3	484
+Right Now	99	17	9	171
+Relations (English Subtitled)	7	17	11	497
+Dangerous Affairs	7	185	5	266
+After Sex (English Subtitled)	54	17	11	107
+After (English Subtitled)	51	17	1	161
+7 Ans	7	17	8	176
+Clemence (English Subtitled)	127	17	6	483
+Shadows in the Distance	51	17	1	300
+Fraulein (English Subtitled)	51	20	7	165
+Raja (English Subtitled)	51	20	2	22
+The Bridesmaid (English Subtitled)	128	188	9	91
+La Boyita (English Subtitled)	51	20	7	123
+Ryna (English Subtitled)	7	17	11	275
+Girlfriends	7	17	9	13
+Cold Blooded (English Subtitled)	61	17	6	83
+Dolls & Angels (English Subtitled)	7	17	11	356
+Break My Fall	53	17	11	360
+Log In (English Subtitled)	118	17	11	246
+"""Sex, Lice and Videotape"""	129	99	11	230
+Transe (English Subtitled)	7	17	2	93

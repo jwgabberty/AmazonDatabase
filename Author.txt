@@ -1,0 +1,393 @@
+1	Darlene		Schacht
+2	James	Newman	Gray
+3	Blizzard 		Entertainment
+4	Ubisoft		
+5	Jessica		Julius
+6	Thomas		Lasseter
+7	Lin-Manuel		Miranda
+8	Rich		Moore
+9	Loren		Bouchard
+10	Bob		Mehr
+11	Angela		Porter
+12	Sonny		Liew
+13	Marjorie		Sarnat
+14	Steve		Giannetti
+15	Brooke		Giannetti
+16	Timothy		Egan
+17	Padma		Lakshmi
+18	Jeffrey	E.	Garten
+19	David	K.	Randall
+20	Augusten		Burroughs
+21	Lee		Smith
+22	Mishka		Shubaly
+23	James		Traub
+24	Douglas		Brinkley
+25	Brian 		Castner
+26	Amy		Poehler
+27	Henry		Kissinger
+28	Hunter		Thompson
+29	Ta-Nehisi		Coates
+30	Robert		Schnakenberg
+31	Wes		Moore
+32	Ashlee		Vance
+33	Stanley		McChrystal
+34	Tantum		Collins
+35	Laszlo		Bock
+36	Richard	H	Thaler
+37	Marshall		Goldsmith
+38	Mark		Reiter
+39	Robert	D	Putnam
+40	Ken		Robinson
+41	Peter	H	Diamandis
+42	 Steven		Kotler
+43	Jon		Acuff
+44	Brian		Grazer
+45	Charles		Fishman
+46	Ron		Lieber
+47	Marc		Goodman
+48	Brent		Schlender
+49	Rick		Tetzeli
+50	Bruce		Schneier
+51	Cesar		Hidalgo
+52	Carley		Roney
+53	Grumpy		Cat
+54	TF		Publishing
+55	Grant		Collier
+56	Ansel		Adams
+57	Peg		Aloi
+58	Scott		Adams
+59	Sandra		Boynton
+60	Jennifer		Holland
+61	Deborah		DeWit
+62	Susan		Pesznecker
+63	Merriam		Webster
+64	Dorling		Kindersley
+65	Rod		Campbell
+66	Emily	Winfield	Martin
+67	James 		Dean
+68	Kimberly		Dean
+69	Theodore		Seuss
+70	Leslie		Patricelli
+71	Eric		Carle
+72	Giles		Andreae
+73	Guy	Parker	Rees
+74	Roger		Priddy
+75	J.	K.	Rowling
+76	Laura		Numeroff
+77	Suzanne 		Collins
+78	Roger		Price
+79	Leonard		Stern
+80	Stan		Berenstain
+81	Jan		Berenstain
+82	Scholastic	and 	Eone
+83	Priscillla		Shirer
+84	Tyndale		
+85	Nabeel		Qureshi
+86	Sally	Lloyd	Jones
+87	Stephen 		Kendrick
+88	Alex		Kendrick
+89	Janice		Emmerson
+90	Joanne		Larrison
+91	Sarah		Mae
+92	Patricia		Pingry
+93	Jim		Durk
+94	Sarah		Young
+95	Mercer		Mayer
+96	Christy	Wilson	Beam
+97	Maria	Faustina	Kowalski
+98	Mike		Berenstain
+99	Alan		Moore
+100	Geoff		Johns
+101	Various		
+102	Daniel		Clowes
+103	Yusukue		Murata
+104	Neil		Gaiman
+105	Marik		Millar
+106	Becky		Clooman
+107	Brenden		Fletcher
+108	Grant		Morrison
+109	Tony		Cliff
+110	Jeph		Loeb
+111	Tim 		Sale
+112	Ananth		Hirsh
+113	Yuko		Ota
+114	Nicky		Hayes
+115	Jim		Ottaviani
+116	Leland		Purvis
+117	Meredith		Gran
+118	Mike		Meyers
+119	Wm	Arthur	Conklin
+120	Greg		White
+121	Adam		Gordon
+122	Jesse		Schell
+123	Jason		Gregory
+124	Francis		Glebas
+125	Rebecca		Harold
+126	Kevin		Beaver
+127	Douglas		Landoll
+128	Massimo		Banzi
+129	Michael		Shiloh
+130	Simon		Monk
+131	Thomas	R.	Peltier
+132	Ken	E.	Sigler
+133	James	L.	Rainey
+134	Bill		Stackpole
+135	Klancy		Miller
+136	Diane		Morgan
+137	Vicki		Edgson
+138	Heather		Thomas
+139	Yossy		Arefi
+140	Lukas		Volger
+141	Ilona		Oppenheim
+142	Jennifer	Trainer	Thompson
+143	Maria		Emmerich
+144	Sara		Mouton
+145	Melissa		Hartwig
+146	Dallas		Hartwig
+147	Gina		Homolka
+148	J. 	Kenji	Lopez
+149	Thug		Kitchen
+150	Ali		Maffuci
+151	Ree		Drummond
+152	Kathleen	G.	Ahreens
+153	Annie		Sloan
+154	Thomas		Rainier
+155	Zach		Klein
+156	Steve		Leckart
+157	Carly 		Cylinder
+158	Lolo		Houbein
+159	Sophie		Pester
+160	Catharina		Burns
+161	Ariella		Chezar
+162	Barb		Blair
+163	Papermade		
+164	Gretchen		Hirsch
+165	Steve		McDonald
+166	Elizabeth		Wilhilde
+167	Emma		Tennant
+168	Kate		Frey
+169	Gretchen		LeBuhn
+170	Princeton		Review
+171	Amanda		Ripley
+172	Kaplan		Prep
+173	College		Board
+174	Living		Language
+175	Princeton		Review
+176	Jeffrey		Hobbs
+177	Jane		Strauss
+178	Lester		Kauffman
+179	Donalyn		Miller
+180	Michael	B.	Horn
+181	Larry		Ferlazzo
+182	Paul	Bambrick	Santoyo
+183	Jennifer		Traig
+184	Stan		Gibilisco
+185	Joseph		Carr
+186	Gordon		McComb
+187	Jackson		Morley
+188	Thomas		Willeford
+189	Jackson		Purdum
+190	Ronald		Quan
+191	Donald		Norris
+192	Paul		Scherz
+193	Michael	Jay	Geier
+194	F.	Alton	Everest
+195	Tyler		Oakley
+196	Connor		Franta
+197	Maggie		Nelson
+198	Alex 		Cooper
+199	Laura	Jane	Grace
+200	Amy	Ellis	Nutt
+201	Patricia	Bell	Scott
+202	Janet		Mock
+203	Justin		Lee
+204	Jessica		Herthel
+205	Eileen		Myles
+206	Hillary		Whittington
+207	Augusten		Burruoughs
+208	Mark 		Johnson
+209	Christopher		Yuan
+210	Angela		Yuan
+211	Barney		Frank
+212	Jennifer	Clare	Burke
+213	Stacy		Davids
+214	Kip		Pettigrew
+215	Kevin		Mumford
+216	JJ		Smith
+217	Charles		Duhigg
+218	Mark		Hyman
+219	Johanna		Brasford
+220	Don	Miguel	Ruiz
+221	Brene		Brown
+222	Heidi		Murkoff
+223	Sharon		Mazel
+224	Kelly		Brogan
+225	Daniel		Goleman
+226	Daniel		Kahneman
+227	Robert		Greene
+228	Haylie		Pomroy
+229	Michael		Greger
+230	Eckhart		Tolle
+231	John		O'Leary
+232	Robert 		Leckie
+233	Sarah		Bakewell
+234	Fred		Kaplan
+235	Patrick		O'Donnell
+236	Sally		Denton
+237	Barney		Hoskyns
+238	Hamptons		Sides
+239	H.	G.	Bissinger
+240	Alexis		de Tocequeville
+241	Mike		Gilbert
+242	Adam		Makos
+243	Jackson		Viertel
+244	Glen		Weldon
+245	Andy 		Patridge
+246	Creative	Action	Network
+247	Gary		Gerani
+248	Richard		Kienzle
+249	Matthew		Carroll
+250	Barry		Miles
+251	Rupi		Kaur
+252	Sarah		Andersen
+253	Philippa		Rice
+254	Nick		Seluk
+255	Lang		Leav
+256	Matthew		Inman
+257	Gavin	Aung	Than
+258	Gemma		Correll
+259	Marcia		Clark
+260	Jeffrey		Toobin
+261	Law School Admission Council		
+262	Irin		Camron
+263	David		Limbaugh
+264	David		Killoran
+265	Adam		Cohen
+266	Dustin		Stevens
+267	Daren		Acemoglu
+268	Law School Admission Council		
+269	John		Grisham
+270	Bryan 		Stevenson
+271	Bryan 		Garner
+272	Ross		Guberman
+273	Lauren		Groff
+274	Celeste		Ng
+275	Helen		Oyeyemi
+276	Tracy		Chevalier
+277	Sue	Monk	Kidd
+278	Marlon		James
+279	Janice		Lee
+280	Karan		Mahajan
+281	Elizabeth		McKenzie
+282	Ivan		Doig
+283	J.	Ryan	Stradal
+284	Thomas		Ligotti
+285	Minsoo		Kang
+286	Raphael		Montes
+287	Jojo		Moyes
+288	Abolqasem		Ferdowsi
+289	Francesc		Miralles
+290	Stephen 		O'Connor
+291	Mo		Yan
+292	Kelly		Kerney
+293	American Psychological Association		
+294	Thomas	W.	Hale
+295	Patricia		Elsevier
+296	Tao		Le
+297	Wynn		Kapit
+298	Joel		Fuhrman
+299	Jason		Fung
+300	Carolyn		Jourdan
+301	American Psychiatric Association		
+302	Robert		Maxwell
+303	Marcia		Sabatine
+304	Atul		Gawande
+305	Oliver		Sacks
+306	Frank		Netter
+307	John		Hansen
+308	Cathy		Miller
+309	Michael		Crichton
+310	Jennifer		Egan
+311	Ellen	Marie	Wiseman
+312	Jessica		Knoll
+313	Ken		Follett
+314	Caroline		Kepnes
+315	Janet		Evanovich
+316	Allen		Eskens
+317	William		Forstchen
+318	Mary		Kubica
+319	Jacqueline		Winspear
+320	Louise		Penny
+321	David		Mitchell
+322	Gillian		Flynn
+323	David		Lagercrantz
+324	Valorie		Schaefer
+325	Adele		Faber
+326	Daniel		Siegel
+327	Tina		Bryson
+328	Kimberley	Rae	Miller
+329	Gary		Chapman
+330	Devon		Franklin
+331	Cara		Natterson
+332	Kerry		Paterson
+333	Jane		Smiley
+334	Kate	Clifford	Larson
+335	Harville		Hendrix
+336	Lana		Asprey
+337	Magada		Gerber
+338	John		O'Sullivan
+339	Marie		Kondo
+340	Yuval		Harari
+341	Dale		Carnegie
+342	Adam		Hochschild
+343	Clint		Emerson
+344	Michelle		Alexander
+345	Jane		Mayer
+346	Matthew		Santoro
+347	Sun		Tzu
+348	Malcolm		Gladwell
+349	Fawaz		Gerges
+350	Salman		Rushdie
+351	Shahab		Ahmed
+352	Anton	Szandor	Lavey
+353	Jawaharlal		Nehru
+354	Henry		Freeman
+355	V.	S.	Naipul
+356	Pujya		Maharaj
+357	William		Dalrymple
+358	Paul		Brunton
+359	Sherry		Garland
+360	Susanne		Lord
+361	Valerie		Berinstain
+362	G.	A.	Henty
+363	Rudyard		Kipling
+364	Chitralekha		Paul
+365	Florence	Parry	Heide
+366	Catherine		Clement
+367	Vikram		Chandra
+368	Paul		Shepard
+369	Francene		Hart
+370	Ursula		Goodenough
+371	Larry		Collins
+372	Rohinton		Mistry
+373	Chitralekha		Divakaruni
+374	Vikram		Seth
+375	Anarug		Mathur
+376	Rabindranath		Tagore
+377	Patricia		Wentworh
+378	J.	G.	Farrell
+379	Ruth	Prawer	Jhabvala
+380	Pawan		Mishra
+381	T.	S.	Eliot
+382	Anuja		Chauhan
+383	Jerry		Pinto
+384	Aravinda		Adiga
+385	Ashwin		Sanghi
+386	Victor		Frankl
+387	Victoria		Turnbull
+388	Stephen 		King
+389	Gerry		Rooney
+390	Jack		Spicer
+391	Julian		Thompson
+392	Miguel	de	Cervantes
+393	Guy		Gaucher

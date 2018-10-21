@@ -1,0 +1,13 @@
+1	Natural
+2	Hypoallergenic
+3	Cruelty Free
+4	Organic
+5	Oil Free
+6	Unscented
+7	Alcohol Free
+8	Fragance Free
+9	Formaldehyde Free
+10	Paraben Free
+11	Ammonia Free
+12	Sulfate Free
+13	foundation

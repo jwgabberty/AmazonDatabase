@@ -1,0 +1,222 @@
+1	Calvin Klein
+2	AGB
+3	Aidan by Aidan Mattox
+4	Alternative
+5	Amanda Uprichard
+6	Anne Klein
+7	BCBGMAXAZRIA
+8	CATHERINE CATHERINE MALANDRINO
+9	GUESS
+10	Julian Taylor
+11	Lark & Ro
+12	London Times
+13	Maggy London
+14	Nine West
+15	Shoshanna
+16	Susana Monaco
+17	Tommy Hilfige
+18	Levi's
+19	DKNY
+20	Columbia
+21	Lee
+22	LACOSTE
+23	MANGO
+24	Theory
+25	Vince Camuto
+26	Ann Tylor
+27	A|X Armani Exchange
+28	Joe's
+29	French Connection
+30	Rachel Zoe
+31	Calvin Klein
+32	Belle Badgley Mischka
+33	HUE
+34	ROXY
+35	NIKE
+36	ADIDAS
+37	The North Face
+38	SEXYARN
+39	Sarin Mathews
+40	eshion
+41	Myobe
+42	Blush Avenue
+43	Doinshop
+44	BAIFERN
+45	Merryfun
+46	JUNKE
+47	Chvity
+48	Allegra K
+49	Merryfun
+50	v28
+51	Timeson
+52	Sarin Mathews
+53	makeitmint
+54	UGET
+55	MIHOLL
+56	Lolli Couture
+57	MBJ
+58	Poulax
+59	PattyBoutik
+60	HyBrid & Company
+61	Jiujiuyi
+62	Nulibenna
+63	BIADANI
+64	PattyBoutik
+65	Alexander + David
+66	ETCYY
+67	PattyBoutik
+68	Allegra K
+69	MSSLY
+70	Timeson
+71	BIADANI
+72	CUPSHE FASHION
+73	Carrbbean
+74	KSJK
+75	Leezeshaw
+76	Dokotoo
+77	ZANZEA
+78	HAPEE
+79	CLJJ7
+80	*daisysboutique*
+81	Allison Brittney
+82	DREAGAL
+83	PINK ROSE
+84	Ugly Christmas Sweater
+85	Liny Xin
+86	V28®
+87	Lucky Brand
+88	Fashware
+89	Hanes
+90	Wantdo
+91	Wrangler
+92	Levi
+93	goodhearts
+94	Costal Blue
+95	Mochi
+96	Trespass
+97	Pishon
+98	Benibos
+99	Imilan
+100	Ekouaer
+101	Yige
+102	HONCHAN
+103	Wuymic
+104	TCS
+105	GIVBRO
+106	32 Degrees
+107	king MA
+108	Azbro
+109	Rothco
+110	Simplee Apparel
+111	Puma
+112	PHOTNO
+113	Under Armour
+114	Haola
+115	Neartime
+116	UGO
+117	Lock and Love
+118	Sunnorn Men
+119	May Story
+120	SweatyRocks
+121	Locryz
+122	SickShirtz
+123	Augusta Sportswear Authentic Sports Shop
+124	Qin.Orianna
+125	LALA
+126	Cutiefox
+127	FASHION BOOMY
+128	Salvatore Exte
+129	Uideazone
+130	AlvaQ
+131	Yonala
+132	Miusol
+133	K3K
+134	Oberora
+135	VGX TACTICAL
+136	Angel Cola
+137	Hemlock
+138	Billabong
+139	Gillberry
+140	vetemin
+141	2LUV
+142	AvaCostume
+143	ATTRACO
+144	Wander Agio
+145	Avidlove
+146	Lyps
+147	Pink Queen
+148	Fifth Parallel Threads
+149	Le Suit
+150	OULIU
+151	Zeagoo
+152	Famulily
+153	Toms Ware
+154	Aichatan Konater
+155	FLORIA
+156	ForeMode
+157	Coutgo
+158	Face N Face
+159	LMB
+160	Moore
+161	Costyleen
+162	Queen
+163	Meilidress
+164	Roii
+165	NE PEOPLE
+166	Miss Halladay
+167	Champion
+168	K
+169	Doublju
+170	RubyK
+171	PRETTODAY
+172	Dasbayla Women
+173	Carhartt Women
+174	Allegra K
+175	Sofra Women
+176	Alvaq Women
+177	Pxmoda Women
+178	56
+179	Faaaashion
+180	Qiangsoo Women
+181	Uget Women
+182	iGENJUN
+183	Fanala Women
+184	Cheerun
+185	Beyove
+186	FOUNDO Womens
+187	Annflat
+188	Lisingtool Women
+189	Angashion Women
+190	LILBETTER Women
+191	FARYSAYS Women
+192	JJ
+193	Eshion Women
+194	NINEXIS Women
+195	Levaca Womens
+196	Pop lover
+197	Simier Fariry
+198	Sweatshirt
+199	BLUE AGE
+200	Curify
+201	Skirt BL
+202	Extreme 80s
+203	Active Research
+204	Trasparenze
+205	Marycrafts
+206	Tahari Arthur
+207	Zeagoo Women
+208	DRESSIS
+209	Anna-Kaci
+210	CoCo Fashion
+211	Fish&Fairy
+212	TIA LYN
+213	Jeasona
+214	Cocoship
+215	DaySeventh
+216	Levis
+217	Ruiyige
+218	LOSRLY
+219	AuntTaylor
+220	Noble U
+221	BLACKMYTH
+222	MaidenForm

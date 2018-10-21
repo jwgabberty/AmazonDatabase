@@ -1,0 +1,447 @@
+Clothes_Name	Brand_ID	Color_ID	ClothingType_ID	ASIN
+Wrangler Authentics Mens Classic Five-Pocket Jean Short	126	25	7	ZM2S0
+adidas Women's Superlite Super No Show Socks (3-Pack)	109	3	3	6XYA70YJB7Z
+Joe's Jeans Women's Blair Trouser Gaucho Jean in Isla	208	11	9	RRDILA5786
+French Connection Women's Core Cashmere-Blend Knit Tunic	161	23	9	78GCE
+Women's Aribella Chunky Sweater	114	8	5	F16KT55
+Columbia Men's Terminal Tackle Long Sleeve Shirt	139	5	7	FM6094
+Anne Klein Women's Triple Pleat Neck Knit Top	113	1	12	10591518
+Anne Klein Women's Bird Print Sweater Tee	129	14	13	10610894
+Nine West Women's Slvless Shirtail Shift Dress	131	12	10	10615910
+Nine West Women's Bi Stretch Skinny Pant	172	17	4	10534614-169
+Nine West Women's Sleeveless Drop Waist Dress	168	4	11	10600122
+Tommy Hilfiger Boys' Short Sleeve Ivy Polo Shirt	128	6	7	T381010
+Levi's Men's 501 Original-Fit Jean	130	14	15	501
+French Connection Women's Otis Turtleneck Sweater	29	8	4	78EEL
+Belle Badgley Mischka Women's Holly Wool Boucle with Faux Fox Fur Collar	155	23	5	62888
+Women's Chiffon Blouses open-shoulder ruffle Shirts Green Mango Summer Tops	155	20	12	78768
+Lacoste Women's Long Sleeve Stretch Pique Polo	118	18	7	PF1775-51
+Mango Women's Cotton Modal-Blend T-Shirt	89	20	14	6766325
+DKNY Women's Fur Hooded Anorak w/ Orange Contrast Lining 82441-Y5	25	18	10	65775757
+Shoshanna Women's Pastel Paisley Print Lisa Dress	116	24	7	1018390
+Lacoste Women's Short-Sleeve Cotton Jersey V-Neck T-Shirt	46	21	15	TF7880-51
+Women's Mini Gingham Slim Fit Pant	191	2	16	HF5615-51
+Women's 100% Cashmere Slouchy Turtleneck Sweater	49	20	11	AMZS5
+Women's Floral Print Cut Out Shoulder Short Sleeve T Shirt Blouse	170	14	16	D-61215-A
+Women's High Waist Flare Skirt 25 Inch	36	8	9	s15e6925
+Women's Striped Trousers	49	9	14	B898099
+Women's Switchback II Jacket	185	14	14	1494881
+Women's Classic Trucker Jacket	2	16	6	70240-0045
+Women's Ottoman Cocoon Tunic Top	121	20	4	RYY1X361
+Women's 512 Skinny Jean	208	20	13	55311-0011
+Women's Logo Zip up Sweatshirt	76	20	8	6XYMAWYJC3Z1200
+Women's Collegiate Campus Cutie Long Sleeve Hoodie Shirt	124	23	9	78687766
+Women's Collegiate Campus Cutie Long Sleeve Hoodie Shirt	191	13	14	7999567
+Women's 100% Cashmere Honeycomb Stitch Crewneck	96	5	12	W5628
+Women's Long Sleeve Body Suit	159	13	5	YDM9T846
+Women's Super Opaque Control-Top Tight	75	24	4	U6620
+Women's Short-Sleeve Square-Neck Dress	22	15	4	D-61218
+Women's Striped Trousers	159	12	3	CD6B7V2Y
+Women's Natural-Fit Jenna Short	133	2	5	46229
+Women's Relaxed-Fit All Day Pant	34	20	7	46312
+Roxy Juniors' XY Long-Sleeve Rashguard	67	8	14	ARJWR00026
+Vince Camuto Women's Long Sleeve Sweater with Side Lace Trim	141	12	7	9156243
+Adrianna Papell Women's Cold Shoulder Lace Blouse	67	13	12	AD1S300201
+Calvin Klein Women's Plus Size S/L Metallic Lurex Top	193	2	8	W6JHS867
+Calvin Klein Performance Women's Tech Fleece Pullover	41	24	4	PF6T0493
+Calvin Klein Women's Invisibles Hipster Panty	148	18	12	D3429
+3 In 1 Maternity Kangaroo Hoody Sweatshirt For Baby Carriers	15	5	7	675888
+Lee Women's Relaxed Fit Skirt	141	24	6	35168
+Joe's Jeans Women's Midrise Skinny Ankle Jean in Wilkins	110	5	5	THQWKN5968
+Anne Klein Women's Sheer Gingham Organza Fit and Flare Dress	56	22	7	10605802
+Women's Double-Breasted Trench Coat with Striped Belt	205	13	14	TW5MC008
+Women's Mirian Midi Dress-2 Tone Corded Lace	165	14	4	2028545
+Women's Ombre Textured Stripe Halter One-Piece Swimsuit	207	5	1	16HW7272
+Women's Gracila Fixture Pont Shirt	1	9	14	G0726509
+Women's Adrianna RL Feather Cashmere Long-Sleeve V-Neck Sweater	125	14	7	F1118701
+Women's Long Sleeve Cotton Wool Bold Stripe Ribbed Sweater	117	7	5	41863800
+Women's Contemporary Three-Quarter Blouson-Sleeve Dress	210	3	5	0337G45
+Women's Petite Wide-Leg Soft Knit Palazzo Pant	220	17	1	5449V8F
+Women's Knit Maxi Skirt	174	18	4	0427P2J
+Women's Classic Double-Breasted Coat	82	23	9	6121147F93
+Women's Fleece Lined Legging	181	12	10	7142
+Women's Mosaic Scarf Printed Scuba Sheath with Scissor Skirt	146	23	8	G2590M
+Women's Circle Flower Lace Cold Shoulder Dress	95	1	12	G2680M
+Women's Polka Dot Dress with Key Hole	114	24	5	54231M
+Women's L/s Canyon Plaid Relaxed Utility Shirt	155	11	4	9056006
+Women's Mohair Blend Jacquard Plaid Sweater Coat	140	4	13	9897
+Women's 3/4 Sleeve Split V-Neck Top	88	19	8	9165668
+Women's Long Sleeve Cotton Cable Knit Crew Neck Sweater	106	23	15	AF6205-51
+Women's Sport Long-Sleeve Ripstop Padded Body Jacket	166	8	9	BF1649-51
+Women's Long Sleeve Cotton Wool Bold Stripe Ribbed Sweater	118	12	16	AF9227-51
+Women's Sport Cotton Stretch Technical Gabardine Skort	77	16	14	JF1643-51
+Women's Lula Stretch Fit-and-Flare Dress	135	9	2	71FLC
+Women's Polly Plains Ruffle	97	3	9	76GBT
+Women's Sienna Curvy Skinny Jeans in Dark Destroy Wash	33	2	8	QB0123D17Y5
+Women's Short Sleeve Jenny Keyhole Henley	42	3	15	W63P1AK49P1
+Women's Dri-Fit Essential Running Capris	70	1	6	645603-010
+Nike DRI-FIT Womens Long Sleeve Training Top	140	15	2	676722
+Women's Basketball 3 Stripe Jacket	182	19	2	68904
+Catherine Catherine Malandrino Women's Dessie Knit-Black	193	7	12	MC600732-1
+Catherine Catherine Malandrino Women's Heiko Dress	48	13	2	MCD60133
+Nine West Women's Mini Houndstooth Pant	83	5	1	10622842-9WY
+Nine West Women's Cap Slv Jsy Drs W/ Shirring AT Waist	30	5	8	10615802
+Nine West Women's Bi-Stretch Suit Skirt	153	3	1	10454753-169
+Alternative Women's Sweater Knit Slit Top	135	19	7	61443Y4
+Aidan by Aidan Mattox Women's Sleeveless Lace Cocktail Party Dress with Skirt	68	7	4	151A98650
+Aidan by Aidan Mattox Women's Strapless Crepe Gown	19	15	2	251706120
+DKNY Womens Down Faux Fur Parka	193	14	14	55354
+DKNY Women's Fur Hooded Anorak w/ Orange Contrast Lining 82441-Y5	115	16	11	36546
+Mango Women's Openwork Panel Blouse	58	2	15	78533
+Mango Women's Flowy Printed Blouse	148	20	11	3424
+Mango Women's Dark Denim Dress	22	23	7	4567
+Belle Badgley Mischka Women's Tessa Belted Wrap Coat with Faux Leather Trim	182	19	1	62891
+Belle Badgley Mischka Women's Strapless Flare Dress 6 White	89	23	7	5463
+Belle Badgley Mischka Women's Tessa Belted Wrap Coat with Faux Leather Trim	198	19	9	62891
+Calvin Klein Women's Two-Button Suit Jacket	23	5	7	23523
+Ann Taylor Womens Shirt Detail Ribbed V-Neck Sweater Beige Cream Large	96	1	12	76664
+Rachel Zoe Women's Jamie Lace Top	33	22	4	PF16T106
+AGB Women's Large Scoop Neck Tiered Striped Blouse	210	8	2	6468
+"""AGB Women's Contemporary Dress, Sleeveless Pop Over Sheer, Knit Under Dress"""	105	18	11	0337G68
+Roxy Juniors' Whole Hearted Long-Sleeve Rashguard	66	1	6	ARJWR00024
+HUE Women's Pier Stripe Boxer	12	17	10	PJ63110
+London Times Women's Geo Striped Combo Halter Maxi	34	1	8	L1443M
+Nine West Women's Cable Solid And Dot Trouser 3 Pair Sock	208	23	3	20261
+Nine West Women's Plus Size A-Line Skirt	43	6	6	10623180-169
+Nine West Women's Belted Houndstooth Women's Blazer	139	8	5	6757
+A|X Armani Exchange Women's Rip and Repair Jean	199	24	6	8NYJ09YDD2Z1500
+A|X Armani Exchange Women's Sleeveless Poplin Shirt	105	7	16	8NYH01YNE1Z
+Guess Women's Long Sleeve Bellissa Surplice Shirt	73	6	7	W63H64TCH10
+Tommy Hilfiger Women's Thermal Pajama Set	16	21	5	R85S068
+Tommy Hilfiger Women's Six-Pack Argyle and Stripe Socks	107	7	8	4364
+Anne Klein Women's Long Palazzo Pant	112	16	4	M8510491A
+Vince Camuto Women's Short Sleeve V-Neck Echo Box Top with Chiffon Cold Shoulder	115	4	3	9156613
+Vince Camuto Women's Mid-Length Parka with Faux Fur Trim	114	23	7	J1721
+Nine West Women's 3/4 Sleeve Cable Fit and Flare Sweater	128	5	11	10588858
+Susana Monaco Women's High Waisted Skirt 20 Inch	73	7	6	AP16b6331
+Amanda Uprichard Women's Slouchy Top	55	13	9	65456
+Amanda Uprichard Women's Calypso Short	8	11	14	S-4125HV
+Amanda Uprichard Women's Rosetta Dress	112	21	1	S-2748
+Lee Women's Modern Series Midrise Fit Dream Jean Harmony Pull On Legging	206	12	6	35410
+Alternative Women's Cotton Jersey Legacy T-Shirt Dress	153	23	1	02837CV
+HUE Women's Houndstooth Cozy Robe	151	4	6	PJ61549
+Calvin Klein Jeans Women's Straight Leg Jean	186	10	4	42BA726
+AGB Women's Petite Timeless Fashion Pull On Soft Knit Long Column Skirt	106	8	8	5449V8H
+AGB Womens Sheer Overlay Popover Top	14	20	16	P000417951
+DKNY Women's Anorak w/ Chest Pockets Details 82377-Y5	72	17	12	5467
+Lark & Ro Women's 100% Cashmere Relaxed-Fit Turtleneck Sweater	80	8	9	JFC8136
+Lark & Ro Women's Tweed Topper Jacket	175	16	15	JK-1567
+Joe's Jeans Women's Icon Mid-Rise Skinny Jean in Electra	43	1	15	ATYECC5252
+Lacoste Women's Cotton Stretch Gabardine Bermuda Short	186	21	10	FF5808-51
+Ann Taylor Womens Curvy Fit Straight Leg Cotton Blend Trousers Navy Blue 8	209	9	6	56466
+Nike Men's Dri-Fit Cushioned Crew Socks	173	22	12	5654
+Orange Arrow Women's Run Now Wine Later Burnout Tank	181	8	4	65467
+Joe's USA Ladies Moisture-Wicking Track & Field Running Shorts inSizes: XS-4XL	66	2	12	USAL0108201510302
+Mango Women's Printed Cotton T-Shirt	149	19	12	6578
+Belle Badgley Mischka Women's Holly Wool Boucle with Faux Fox Fur Collar	190	18	6	62888
+Belle Badgley Mischka Women's Bianca Down Coat	95	9	8	62401
+Columbia Women's Fairisle Wool 2 Pack Boot Sock	180	23	12	RCS572W
+Columbia Women's Anytime Outdoor Capri Pant	207	17	9	1492621
+Columbia Women's Anytime Outdoor Capri Pant	189	7	8	5464547
+Columbia Women's Anytime Casual Skort	4	10	14	1492691-1
+A|X Armani Exchange Women's Slim Pique Bodycon Sleeveless Dress	131	25	13	6XYA70YJB7Z
+Julian Taylor Women's 3/4 Bell Sleeved Ribbed Hachi Sheath Dress	101	17	9	55021M
+Roxy Women's Signature Fleece Zip up Hoodie	212	8	16	ERJFT03409
+Roxy Women's Hopeful Thoughts Elastic Waist Short	111	7	14	ARJNS03088
+Lee Women's Natural-Fit Jenna Short	210	15	16	46229
+Calvin Klein Performance Women's Chevron Quilted Packable Hooded Jacket	30	8	12	PF6J4180
+Pro Wire-Free Medium Control Sports Bra	184	11	4	375833-504
+Columbia Women's Anytime Outdoor Full Leg Pant	178	21	3	1478041
+Women's The North Face Gotham Down Jacket	207	12	7	CX66
+Calvin Klein Women's Petite Lux Straight Skirt W/ Belt	120	10	3	T67SL175
+BCBGMAXAZRIA Women's Zana	196	17	7	OJZ3F558
+A|X Armani Exchange Women's Knit Skirt in Red	198	8	1	6XYN1AYMB6Z1400
+Lee Women's Modern Series Curvy Fit Stella Skirt	162	14	1	35272
+Anne Klein Women's 2 Pocket Skirt	132	11	4	10626342
+BCBGMAXAZRIA Women's Myra Double Zipped Leather Skirt	176	20	9	DKT3G234
+BCBGMAXAZRIA Women's Dorthy Skirt	145	22	2	QVV3G229
+BCBGMAXAZRIA Women's Lyric Knit Skirt	114	20	16	JVS3G299
+Love By Design Women's Cable Knit Tunic Pullover Sweater	130	20	13	FMA49230A
+Women's Bouquet Tee	120	21	7	7WDG597
+Theory Women's Tamalee.Dalton Strip	45	17	16	G1004507
+BCBGMAXAZRIA Women's Hailee	172	6	1	NIJ1X301
+Vince Camuto Women's Long Sleeve Nautical Linear Stripe Button up Blouse	90	15	8	9156117
+Lucky Brand Women's Printed Party Peasant Top in Red Multi	181	7	11	7WD40439
+Roxy Juniors Always Forever Sweater	95	5	10	ERJSW03159
+Myobe Women's Aztec Print Drape Open Front Drape Boyfriend Cardigan Sweaters	112	7	8	3235h
+Theory Women's Beninaty_Cashmere	198	21	8	G0918703
+Womens Oversized Christmas Reindeer Cardigan	42	14	1	w98924f
+The North Face Glacier 1/4 Zip Jacket - Women's	96	3	13	2RED
+The North Face Nuptse 2 Vest - Women's	124	16	12	CUQ6
+Vince Camuto Women's Sleeveless Turtleneck Two-Pocket Boucle Sweater Tunic	201	18	4	9156220
+Calvin Klein Performance Women's Convertible-Sleeve Space-Dye Tunic	18	5	7	PF6T0454
+adidas Women's Tiro 15 Training Pant	8	16	15	AA6268-415
+Women's The North Face Arctic Parka Jacket	68	6	7	CC13
+Lucky Brand Women's Mid-Length Wool Quilted Jacket	28	16	8	LB420070T
+A|X Armani Exchange Women's Double Layer Trench Coat	62	14	6	6XYL02YNC1Z1802
+Roxy Juniors Indi Coast Padded Jacket	185	8	3	ERJJK03148
+Tommy Hilfiger Women's Wool Double-Breasted Coat	219	7	3	TW4MW004
+Anne Klein Women's Solid Ity Classic Wrap Dress	91	12	8	10627586-2
+Lark & Ro Women's Long-Sleeve Wrap Dress	89	8	6	AMZF55LS
+HyBrid & Company Women's Casual Work Lace Blazer Jacket Made In USA	155	18	16	65w543
+Nine West Women's Bi-Stretch Suit Skirt	196	8	8	10454753-169
+V28 Women 6-layer Mid Tulle Tutu Ballet Ruffle Bridal	175	20	11	65709
+H&C Womens Versatile Stretchy Flared Pleated Skirt	3	9	13	546809
+Timeson Womens Short Sleeve Slim Fit Tunic Tops with Round Neck	182	18	7	369hk4
+CLJJ7 Women's Hit Color Mid-long Dress	159	22	9	3454sf
+HAPEE Women's Sexy Casual Plaid Print Belt Button Front Shirt Blouse	59	22	8	88MPT-00312
+Roxy Juniors' Oceanside Soft Pant	7	5	16	ARJNP03006
+HyBrid & Company Womens Super Comfy Stretch Ankle Zip Moto Skinny Pants	49	16	4	4536
+Lucky Brand Women's Pyramid Sweatshirt	72	6	13	7W71979
+Women's Nike All Time Full-Zip Training Hoodie	89	5	1	683656
+Koloa Surf Co. Womens Rainbow Stripe V-Neck Burnout Hoodies in Sizes S-2XL	96	11	7	USAL710141200
+ZANZEA Women's Cotton High Collar Hoodies Long Sleeve Sweatshirt Pullover Coat	131	1	13	ZANZEAWirzdolp7190
+adidas Women's Superlite Super No Show Socks (3-Pack)	14	16	12	233991
+Nike Dri-Fit Half Cushion Quarter Socks (3 Pack)	111	5	8	SX4835-101
+Lee Women's Easy Fit Jade Jean Legging	46	5	9	35406
+Calvin Klein Women's Modern Essential Power Stretch Legging with Wide Waistband	162	9	1	M4VKX245
+HUE Women's Fleece Lined Leggings	114	16	5	U16851
+V28½ Womens Stretchy Floral Lace Capri Leggings Tights	205	15	11	21432
+AGB Women's Petite Timeless Fashion Pull On Soft Knit Long Column Skirt	82	21	1	5449V8H
+Vero Moda Women's Skirt	157	24	8	1701940901
+Universal Toddler Boys' 2 Piece Minions Hoodie and Fleece Pant Set	25	22	7	7878888
+"""U.S. Polo Assn. Little Boys' Plaid Patchwork Short, Woven Shirt and Crew Neck T-Shirt"""	140	23	6	455455
+Marvel Boys' 2 Piece Spiderman Polo Top and Plaid Short Set	24	20	7	78799
+Disney Boys' 2 Piece Cars T-Shirt and Space Dye Short Set	99	1	5	KU88021
+National Geographics Boys' Dinosaur Wrap 2-Pack Short Sleeve T-Shirt	201	7	4	NATGEO2PACK
+The Children's Place Toddler Boys' Li'l Guy's	210	9	7	2079361
+Transformers Big Boys' Autobots Grid T-Shirt	69	2	7	HATF046YSC3P1XX
+Nickelodeon Boys' Rusty Rivets Character Group Short Sleeve T-Shirt	125	22	7	NC129875
+Ninja Turtles Toddler Little Boys Long Sleeve Hooded Masked Shirt	31	12	13	NC345628
+Gymboree Boys' Noveltee Shirt	73	12	5	140167123
+Gymboree Big Boys' Seersucker Shirt	150	8	12	140167490
+Gymboree Big Boys Linen Convertible Woven Shirt	86	12	5	241552601
+Levi's Big Boys' Westwood Cargo Shorts	217	1	5	918369
+Wrangler Authentics Boys' Fashion Cargo Shorts	64	15	2	ZB4SB5H
+LEE Boys' Dungarees Belted Wyoming Cargo Short	156	14	6	51660
+Levi's Big Boys' Westwood Cargo Shorts	217	23	12	4896623
+Burt's Bees Kids Boys' Organic French Terry Reverse Waistband Pant	70	1	2	TD23771
+French Toast Boys' Fleece Jogger Pant	11	20	15	SK9002
+French Toast Boys' Pull-on Jogger	90	10	15	SK9510
+French Toast School Uniform Boys Woven Jogger Pants	116	21	13	155209
+French Toast Adjustable Waist Double Knee Pant	59	18	11	SK9001
+French Toast School Uniform Boys Flat Front Adjustable Waist Shorts	126	7	4	JU53600
+French Toast Boys' Short Sleeve Pique Polo	205	15	9	SA9084
+French Toast Boys Pants	94	14	12	78973675
+Sherosa Women's Floral Print Cut Out Shoulder Short Sleeve T Shirt Tops Blouse	29	21	5	U055120
+"""Long sleeve candy red graphic tee, great fashion for everyday"""	6	16	5	140162119
+Men's Dress Suit Notched Lapel Slim Fit Stylish Blazer	45	24	10	Golden888
+Columbia Men's Frost-Fighter Puffer Jacket	207	15	5	1562011
+Hurley MPT0000400 Mens Dri-Fit Drifter Jogger Pants	82	7	2	MPT0000400
+adidas Performance Men's Essential Short	99	24	2	F86297
+Champion Women's Mesh Short	155	6	9	7791
+Gillberry High Waist Fitness Yoga Sport Pants Printed Stretch Point Leggings FBA	95	7	7	WY5462
+Lark & Ro Women's 100% Cashmere Ribbed Boatneck Pullover With Side Slits	176	3	3	W5632
+Pink Queen½Animal Printed Big Pockets Drawstring Hoodie Sweatshirt	77	20	2	PHD7234BR
+Men's Advanced Comfort Tampa Cargo Short	215	13	8	GWS13
+Lucky Brand Women's Sweet N Low Jean	112	5	9	7W11881
+REGNA X ADOONGA Men's Round Crew Neck Graphic Printed Short Sleeve T-shirt	38	11	16	RRTCM16031_P
+Men's 505 Regular Fit Jean	191	11	14	00505-1
+Adidas Women's Superlite No Show Socks (Pack of 6)	214	13	4	229793
+Dokotoo Womens Casual Summer Floral Print Crisscross Cotton Blouses Tops T-Shirts	173	16	16	WG250116
+CHEF CODE Chef Cargo Pants with Elastic Waist and Drawstring	166	24	14	CC201-202
+Black Cotton Hooded Hoodie Jumpsuit Onesie Playsuit Loungewear	12	10	4	801
+The North Face Women's Half Dome Hoodie	160	2	2	CH2X
+Women's Tights Active Yoga Running Pants Workout Leggings	47	24	9	MANSTORE-LES0-01
+Wantdo Men's Winter Thicken Outwear Coat With Removable Hood	89	13	2	ZH890
+Hanes Men's FreshIQ X-Temp Comfort Cool Vent No Show Socks (Pack of 6)	210	18	7	CC12/6
+Ekouaer Chemise Womens Sleepwear Soft V-Neck Nightgown Full Slip Lingerie Dress S-XXL	173	2	1	EKK005767
+HONCHAN Faux Fur Vest For Women Winter Outerwear	99	12	7	W1234887
+WuyiMC Women's Deep V Neck 1/2 Sleeve Party Clubwear Romper Jumpsuit	183	18	14	WULTK071409
+Calvin Klein Men's Mabry Slim Fit 2 Button Notch Lapel Trouser In A White Linen Suit	67	9	9	MBYR25AY0100
+Waterproof Jacket Raincoat Men Sportswear-GIVBRO 2017 New Design Outdoor Hooded Softshell Jackets	45	14	4	DES25478934
+"""32 Degrees Heat Men?s Performance Mesh Pant, Black"""	16	22	3	F215499-AB
+adidas Men's Team Issue Fleece Pullover Hoodie	216	23	16	114459157
+Allegrace Women Sexy Long Sleeve Autumn Warm Stretch Bodycon Party Bandage Dresses	188	21	6	AG102
+King Ma Women's Lapel Slim Fitted Long Sleeve One Button Blazer Jacket	120	8	2	WR-12457893
+Lark & Ro Women's Quilted Barn Jacket	190	13	3	A320319M
+Rothco Vintage Paratrooper Fatigue	118	2	9	2187
+Simplee Apparel Women's Slim Straight Leg Stretch Casual Pants with Pockets	67	14	6	BT070
+PUMA Women's 6 Pack Low Cut Socks	191	22	10	P79391AZ
+PHOTNO Fashion Men Boy Summer Slim Fit Short Sleeve Dress Shirt Casual Cotton T Shirt	189	5	4	QW-9865324
+Under Armour Men's Tech Short Sleeve T-Shirt	70	12	16	1228539-631
+Haola Summer Fashion Women Cute Short Sleeve Printed Tops Casual T Shirt	93	22	16	2546987
+"""Women Sweater,Neartime Long Sleeve Hoodie Sweatshirt Woman Hooded Pullover Tops"""	47	21	8	Neartime
+LL Womens Hooded Faux leather Jacket	156	23	8	LLWJC664
+Sunnorn Men's Winter Double-breasted long coat Overcoat Jacket Trench Trenchcoat	114	3	2	PF-568971234
+Men's Net Free Swim Trunks Shorts Quick Dry Solid Beach Swimsuit with Pockets	128	20	8	P7034A
+SweatyRocks Women's Bathing Suit Adjustable Spaghetti Strap Floral Print Criss Cross Bikini Set	81	19	14	FR-89657412
+Locryz Womens O Neck Long Sleeve Jersey Tunic Casual Long Baseball T Shirt Tops	214	5	5	WE-6587412
+Nurse T-Shirt for the proud men or women nurse in your life	31	9	5	AQ24579
+"""Sleveless Boys/Mens Crewneck Polyester/Cotton Shirt (8 Sizes, 14 Colors)"""	164	1	2	NUM-98547123
+Qin.Orianna Women's Baggy Swimwear Bikini Cover-ups/beach Dress/night T-shirt	97	4	5	DF-521478
+Solid Colors Beach LARGE Mens Sarong Pareo Wrap Cover ups Beach wear Swimwear	170	18	16	Sarong -254789
+Nike Mens KO 3.0 Pullover Hoodie Black/Grey	180	4	11	SWQ-6547213
+Cutiefox Women's Trendy Solid Funnel Neck Pullover Hoodie Sweatshirt	102	14	9	CFPHD7681
+Sarin Mathews Womens Cold Shoulder Hollow Out Short Sleeve Casual T-shirt Tops	66	13	14	YU-5632147
+Fashion Boomy Womens Zip Up Military Anorak Jacket W/Hood	37	23	16	OP-65213478
+Tommy Hilfiger Men's Packable Down Jacket	29	19	1	155AN231
+Salvatore Exte Men's Suit Two Button Side Vent Jacket Flat Front Pants	59	23	11	SQ-6587412
+Uideazone Mens Tank Top Casual 3d Printed Patterns Graphics Tees	98	10	1	ASQWW-96
+"""Alvaq Women 3 4 Ruffle Detailed Sleeve Floral Blouses (S-XXL ,4 Colors)"""	118	9	12	AQ250284
+Yonala Womens Boho Floral Tie Up Waist Summer Beach Wrap Cover Up Maxi Skirt	126	14	2	GBVF-6521
+Miusol Women's Retro Neck Houndstooth-Print Peplum 1/2 Sleeve Formal Pencil Dress	51	12	8	QF3258
+K3K Men's Denim Casual Washed cotton Slim Fit Sport Coat Suit Blazer Jackets	206	10	6	FGH-54289
+Oberora Mens Stylish Slim Fit wo Button Flap Pockets Pure Color Blazer Jacket	201	8	2	ASQW-65879
+Thin Blue Line Flag LEO Police Support Men's Tank Top T-Shirt & Keychain Gift Black	105	21	16	HGFD-657478
+Angel Cola Men's Cotton Raglan Hoodie String Pullover Sweatshirt	177	9	3	PPT611RAG
+"""Sexy Lingerie Dress,Hemlock Women Strap Bustier Crop Top Underwear Jumpsuit Dress (Free, Black)"""	174	7	5	201610
+Calvin Klein Women's 3 Pack Carousel Bikini Panty	106	6	8	D1623
+Lucky Brand Women's Sheer Yoke Embroidered Top	100	2	7	7WD60798
+Hanes Women's Nano T-Shirt	187	22	3	OSL04
+Billabong Women's Sand Hopper Pullover	168	17	12	JV02KSAN-MUL-S-A
+Gillberry Fashion Women Loose Pullover T Shirt Long Sleeve  Blouse Hoodies	150	1	16	Gillberry-65876
+Vetemin Women's Basic Soft Brushed Fleece Long Sleeve Pocket Hoodies Sweatshirts	123	14	3	KL-89657
+2LUV Women's Stretchy 5 Pocket Dark Denim Skinny Jeans?	199	13	6	SDF-582147
+AvaCostume Womens Modal Cotton Soft Yoga Sports Dance Harem Pants	92	20	12	06-HY-4601
+LL Womens Tie Dye Fold Over Maxi Skirt - Made in USA	132	19	14	LLWB1058
+Hanes Women's Jersey Short	191	15	13	O9264
+Attraco Women's Retro Oceanic Stripes Tie Front Two Piece Swimsuit Tankini	81	13	16	ADFG-65478
+Wander Agio Bohemia Single Sleeves Printing Beach National Strapless Silkly Feel Dress	172	9	6	NJHO-65214789
+Avidlove Women Sleepwear Sexy Lingerie Satin 2 Piece Cami Shorts Pajama Set	19	16	11	ALL005504
+Luxury Lace Babydoll Sexy Halter Lingerie For Women Sleepwear Set Mini Bodysuit With Matching Thong	111	24	5	CHU-0077
+Pink Queen Womens Jumpsuits Elegant Button Loose Long Wide Leg Jumpsuits Romper	174	18	12	PQ-PJP027
+Wantdo Women's Wool Wrap Swing Coat with Belt	89	8	13	WT3470
+makeitmint Women's Zip Up Military Anorak Jacket w/ Hood [S-3XL]	29	1	3	SHJI-21364789
+FPT Womens Stretchy Dressy Vest	97	2	6	NEH-213648
+Le Suit Women's Crossdye 3 Button Skirt	77	18	9	50035471-9RF
+OULIU Women Elegant Slim Fit Color Matching OL Suit Jacket	129	4	2	KHI-2564
+Hanes Women's No Show Sock (Pack of 10)	190	6	3	650/10
+Miusol Women's Square Neck Busniess Peplum Fitted Casual Bodycon Dress	67	21	1	QF3165
+ACEVOG Women's Long Sleeve Open Front Asymmetrical Hem Casual Blazer Jacket	5	9	13	JKU-2547863
+Women's Lightweight Packable Down Jacket Outwear Puffer Down Coats	204	5	13	USZXWMA0007
+Calvin Klein Women's Lightweight Packable Rain Anorak with Logo	181	14	16	CW744988
+Columbia Women's Mighty Lite III Vest	100	24	2	WL1471
+Junior's Livonia Jumpsuit	60	6	4	WJJP01LI
+Women Sexy Lingerie Lace Babydoll Halter Chemise Transparent Sleepwear	48	6	4	ALL005801
+Womens Sleepwear Nightgown Full Slips Lace Sling Dress M-XXL	203	19	2	AMK005063
+Blue Summer Printed Strappy Back Bikini SwimsuitS For Women	111	17	5	FRT-547863
+Women's Bathing Suits Cover Up Off Shoulder Dress Swimwear Ethnic	72	9	3	OIU-5214783
+American Apparel Cotton-Spandex Jersey Legging	39	1	7	8328
+Women's Juniors Stetchy Mid Rise Denim Shorts	160	5	1	MBVC-25478
+Women's Lace Pencil Skirt	161	6	9	RED-521478
+Damask Palazzo Pants - Made In USA	84	1	10	PLP
+Women's Stretchy 5 Pocket Dark Denim Skinny Jeans?	2	7	6	JIY-254639
+Womens Drawstring Fleece Zip Pocket Sweatshirts Hooide Jackets	14	6	11	IH-632589
+StyleDome Women Long Sleeve High Necke Pocket Pullover Hoodies Sweatshirts Coats	98	21	6	ZANZEAAosh19134
+Lark & Ro Women's Sleeveless Ruffle Top	212	1	2	LR-26
+Miusol Women's Casual Flare Floral Contrast Sleeveless Party Mini Dress	202	1	12	QF8051
+Yuandy Women Summer Off Shoulder Strapless Floral Print Pleated Dresses	139	8	15	LJKI-254369
+Women's Floral Print Cut Out Shoulder Short Sleeve T Shirt Blouse	206	13	16	AF250124
+Blooming Jelly Women's Short Sleeve Lace Trim Patchwork Striped Tee Shirts Tops	132	18	3	KLU-23698
+Lark & Ro Women's 100% Cashmere Boxy Turtleneck	12	12	3	W5627
+H2H Womens Fashion Sleeveless Lace-Up Hoodie Tunic Top With Kangaroo Pocket	21	6	16	#CWOHOSL01
+Women's Half Dome Hoodie	11	23	6	CH2X
+Curvy Boot Cut Jean	44	8	3	96979-0005
+Lee Women's Relaxed-Fit All Day Pant	72	4	12	46312
+White Contrast Polka Dot Print Maxi Skirt	54	13	5	PW0078
+Reflex Activewear Lounge Shorts	75	9	5	RFW3553
+Women's Tights Long Workout Legging Yoga Pant	171	20	4	SG-W09Y-7OF2
+Retro 50s Black Blue Floral Vintage High Waist Bikini Carnival Swimsuit(FBA)	165	15	4	CSF210F
+Women's Swimwear Engineered Print Kaftan Cover Up	144	5	8	AMZ156C
+Women Sleeveless Wrap Front Floral Print Cami Loose Jumpsuit Overall	196	22	8	LMO-6321487
+Womens Spaghetti Strap Sleeveless V Neck Print Short Jumpsuit Mini Romper	161	9	8	KOU-369852
+Columbia Women's Plus-Size Pardon My Trench Rain Jacket	67	5	16	1502332
+Women Slim fit Zip-up Hoodie Jacket	161	21	8	TWHD188
+Womens Dedstroyed Denim Jean Sleeveless Vest	55	11	14	KJLI-20145
+HyBrid & Company Women Double Notch Lapel Sharp Shoulder Pad Office Blazer	42	25	15	KLOP-254136
+Awesome21 Women's Open Front Shirring Sleeve Blazer	74	23	1	BHO-325698
+Pack of 5 Womens Thick Knit Warm Casual Wool Crew Winter Socks	86	20	9	LOI-256478
+Hanes Women's Control Top Sheer Toe Silk Reflections Panty Hose	2	14	7	771
+Women's Plus Size Classic Collarless Open Front Blazer Jacket	33	1	1	KOL-65829
+Women's 2 Button Black Pant Suit	193	5	1	50035807-169
+Calvin Klein Women's Flyaway Jacket with Zippers	13	6	11	M5JC1625
+LL Womens Lightweight Sleeveless Ombre Open Front Cardigan Vest - Made in USA	16	2	2	LLWSK1095
+Women's Punk Spaghetti Strap Jumpsuit V Neckline Comfy Loose Harem One Piece Romper	32	16	9	YUTR-235489
+Women Sexy Strap Backless Summer Beach Party Romper Jumpsuit	215	21	2	KOI-621478
+Womens' Adjustable Strap Ripped Denim Overalls	204	6	7	SDF-2031456
+Levi's Women's Original Overalls	49	16	8	36133
+Womens Striped Swimwear Cover ups Bikini Swim Beachwear Swimsuit Cover Up	85	16	15	SMR-039
+Sexy Women Black Colorblock Bikini Set Padded Push Up Bra Swimsit Swimwear	76	11	2	RTE-24
+Taydey Women's Swimwear Knitted Crochet Tunic Cover up / Beach Dress	95	6	1	GER-85236
+Womens Babydoll Lingerie Set Plus Size	122	6	14	KPL-201456
+Zeagoo Women's Sleeveless Lace Floral Elegant Cocktail Dress Party Dress	97	25	14	ZTH014378
+Women's Cute Criss Cross Back Tank Tops Loose Hollow Out Camisole Shirt	37	10	9	JIU-25631478
+Tom's Ware Womens Casual Fit and Flare Floral Sleeveless Dress	143	2	7	TWCWD054
+Thanth Women Purecolor Comfy Loose Fit Short Cut Out Sleeve Cotton T-Shirt	123	16	15	FRE-23145678
+FLORIA Womens Classic 3/4 Sleeve Open Front Cropped Cardigan (S-XL)	44	23	16	FSW008
+ForeMode Women Hoodies Long Sleeve Splice 3 Color Hooded Sweatshirt	222	16	1	NBF-214563987
+Lee Women's Classic Fit Monroe Straight-Leg Jean	98	23	2	34036
+Coutgo Women's Casual Comfy Soft Stretch Floral Print Lounge Pants (by Coutgo)	142	23	12	LOP-2134879
+Face N Face Women's High Waisted A line Street Skirt Skater Pleated Full Midi Skirt	75	10	6	A-B91500
+Best Selling Extra Soft Capri Leggings - Lots of Colors - (Fits Sizes 0 -12)	62	14	8	LMB30452
+Womens One Piece Floral Lace Halter Push-up Padded Monokini Deep V Neck Swimsuit	198	21	13	IUL-20145339
+Costyleen Summer Womens Beach Wear Cover up Swimwear Bikini Lace Floral Long Maxi Beach Dress	106	22	4	CosCoverups002
+Avidlove Women Lingerie V Neck Nightwear Sexy Satin Sleepwear Lace Chemise Mini Teddy	110	6	6	ALL005259
+Pink Queen Womens Jumpsuits Elegant Button Loose Long Wide Leg Jumpsuits Romper	72	4	1	PQ-PJP027
+Meilidress Womens Denim Hole Jeans Bib Overall Jumpsuit Casual Ripped Hole Pants Jeans Jumpsuit	146	25	6	PER-214789
+Roiii Women Military Winter Casual Outdoor Coat Hoodie Jacket Long Trench Parkas	77	21	9	H238
+Tom's Ware Women Slim fit Zip-up Hoodie Jacket	128	21	8	TWHD188
+NE PEOPLE Womens Lightweight Quilted Zip Up Vest S-3XL	79	21	15	NEWV118
+Miss Halladay Women Black Cotton Twill Full Lined Suiting Tailored Blazer Faux	42	18	8	HSP14001PR-BLK
+Champion Women's Double Dry 4-Pack Performance Heel Shield Socks	125	25	16	CH228
+K. Bell Women's Soft Modal Blended Knee High Socks In Solid Colors (Pack of 4)	167	11	4	427073-04
+Calvin Klein Women's Open Soft Suiting Jacket	139	18	4	S75JV843
+Doublju Classic Draped Open Front Blazer For Women With Plus Size	126	12	14	ILKO-521478
+Wantdo Women's Double-Breasted Trench Coat with Belt	21	21	16	WT2473
+RubyK Womens Padded Quilted Puffer Jacket Vest with Hoodie	31	21	2	RBKWV2099
+PRETTODAY Women's Summer Printing Jumpsuit 4 Colors Off The Shoulder Sleeveless Rompers	171	5	16	BFDE-2013654
+Dasbayla Women's Strappy Sleevless Rompers Short Outfit for Summer S-XL	137	3	11	UETY-1452789
+Carhartt Women's Sandstone Unlined Bib Overalls	141	5	12	102357
+Allegra K Women's Dots Pattern Adjustable Shoulder Straps Mini Denim Overall Dress	171	3	9	HUM-231457
+Sofra Women's Full Ankle Length Seamless Leggings	97	20	6	SDFR-214578
+Dokotoo Womens Casual Denim Destroyed Bermuda Shorts Jeans	92	17	14	WG78649
+Alvaq Women Summer Coral Print Long Maxi Skirt (8 Colors And Design Print )	28	21	7	AQ65035
+Pxmoda Women's Casual Stretch Skinny Pencil Pants High Waist Elastic Slim Jeans	92	18	10	ADE-21458
+Faaaashion Women's Ripped Jeans Boyfriend Denim Biker Jeans Pants	111	10	3	SDER-524875
+Qiangsoo Women's Casual Oblique Sweatshirt Full Zip-Up Warm Fashion Hoodie	51	6	8	QIANG007
+Uget Women's Casual Oversized Baggy Off-Shoulder Shirts Batwing Sleeve Pullover Tops	138	20	7	IUER-21457
+iGENJUN Women's Summer Sleeveless Pleated Back Closure Casual Tank Tops	152	23	11	IG-FBA-JT05
+Fanala Women Deep V Neck Loose Fit Short Sleeve Summer Casual Tee	206	21	8	OPIU-25698
+Cheerun Women's Summer Sexy Swan Velvet Tops	126	5	16	1233
+Beyove Women's Floral Long Beach Dresses Deep V Neck Maxi Dresses With Belt	99	1	16	BVH011626
+FOUNDO Womens Sleeveless Solid Vest Tank Long Maxi Dresses	23	24	7	SWEFV-21998
+Annflat Women's 3 4 Sleeve Floral Print T-Shirts Casual Striped Blouse Tops	16	24	8	AF250276
+Lisingtool Women's Off Shoulder Stripe Casual Blouse Shirt Tops	60	12	5	LT-3054
+Angashion Women's Sleeveless Halter Neck Lace Splicing Tank Top Vest	191	14	5	AW-213654
+LILBETTER Women Chiffon Blouse V Neck Short Sleeve Top Shirts	216	15	9	SCDR-214789
+FARYSAYS Women's Casual Color Block Striped Racerback Cami Tank Tops	19	23	8	JS250174
+JJ Perfection Women's Round Neck Front Pleated Chiffon Cami Tank Top	191	14	14	KIP-214578
+Uget Women's Casual Oversized Baggy Off-Shoulder Shirts Batwing Sleeve Pullover Tops	87	1	3	UGET-00009
+Eshion Women's Casual Reindeer Fawn Hooded Fleece Sweater Sweatshirt Jacket	56	13	3	JUI-25896
+NINEXIS Women's Long Sleeve Button Down Soft Knit Cardigan Sweater	143	19	12	PL-5555555
+Levaca Womens Long Sleeve Button Cowl Neck Casual Slim Tunic Tops With Pockets	161	17	11	AAWE-222
+Pop lover Womens Fashion White Navy Striped Cotton Coat Hoodie Sweatshirt	7	9	6	LOP-55
+Simier Fariry Women's Long Sleeve Shawl Collar Knit Sweatshirt Pullover Hoodies	120	21	1	NOT-52478
+Women's Sweatshirt Hoodies turtleneck Pullover Pocket coat	63	9	10	PUY-214587
+BLUE AGE Multistyle Denim and Cotton Skinny Jeans / Pants	4	8	3	BA-5555
+High Waisted Butt Lifting Slimming Jeans for Women - Skinny Stretch Jean Curvify 766	134	13	2	HIWAIS-54789
+Levi's Women's 711 Skinny Jean	11	25	9	18881-2
+Women's Distressed Ripped Stretch High Waist Skinny Jeans Denim Pencil Pants	192	10	9	DES-56998
+X80½ Neon Splatter Leggings Women's	6	14	2	XUI-5263
+Active Research Women's Compression Pants w/ Hidden Pocket	23	22	15	AR-5558
+Avidlove Womens Socks Hosiery Tights Control Top Sheer 12 Denier Pantyhose 3 Packs	201	13	16	AL002580
+Trasparenze Idra Fishnet Ankle Highs	203	7	10	OL-52221
+Trasparenze Idra Fishnet Ankle Highs	14	19	7	HUI-52147
+Marycrafts Women's Formal Office Business Shirt Jacket Skirt Suit	112	17	14	UY-82727
+Miusol Women's Retro Neck Houndstooth-Print Peplum 1/2 Sleeve Formal Pencil Dress	91	24	3	QF3258
+"""Tahari Arthur S. Levine Turnlock Button Blazer Pink, Size 10"""	9	3	3	Tah-7854
+Zeagoo Women's Fashion Faux Fur Lapel Double-breasted Thick Wool Trench Coat Jacket	42	10	16	ZE027034
+DRESSIS Womens Slim Fit Cropped Demin Jean Jacket	54	6	3	DRS-478963
+Anna-Kaci Womens Sleeveless Shawl Cardigan Crochet Open Front Bikini Cover Up Vest	130	10	4	Y81848P
+CoCo Fashion Off Shoulder Sleeve Hollow Out Sexy Women Bodycon Long Jumpsuit Rompers	8	16	13	COC-52698
+Backless Off Shoulder Rompers Print Summer Casual Womens Jumpsuits Fish&Fairy	188	9	15	JS001
+Skirt BL Women Fashion Plus Size Skinny Blue Strecthy Jeans Romper Denim Overall	186	2	14	Deov
+iCollection Tia Lyn Core Collection Button Camisole in Magnet	122	14	2	9100
+Jeasona Women's Bathing Suits Cover Up Off Shoulder Dress Swimwear Ethnic	70	9	2	TER-5236
+Cocoship Retro One Piece Backless Bather Swimsuit High Waisted Pin Up Swimwear(FBA)	24	19	5	CSF307
+DaySeventh Women Sexy Hot Pants Summer Casual High Waist Beach Shorts	2	19	11	DS06
+Levi's Women's 529 Curvy Bootcut Jean	221	19	15	15535
+Women's Sleeveless Halter Neck Vintage Floral Print Maxi Dress	175	1	8	C801
+Women Floral Print T-Shirt High Neck Casual Blouse Sleeveless Tank Tops	143	9	15	YL250162
+Womens Cardigans Solid High Low Long Sleeve Boho Open Front Blouses Cardigans	54	19	7	OP-2563
+Women Elastic Waist Band Stretchy Fabric Pencil Skirt	193	9	14	S20155
+BLACKMYTH Women Summer Short Sleeve Top Tee Graphic Cute T-shirt	207	8	10	9000362
+Hanes Women's Wear Around Nightshirt	29	25	9	5660
+Backless Off Shoulder Rompers Print Summer Casual Womens Jumpsuits Fish&Fairy	100	20	3	JS001
+Maidenform Women's Ultimate Lace Push-Up Bra	131	10	15	9443

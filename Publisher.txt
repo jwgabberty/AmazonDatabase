@@ -1,0 +1,190 @@
+1	Time Wrap Wife Ministeries
+2	Price Stern Sloan
+3	Dark Horse Books
+4	Chronicle Books
+5	CreateSpace Independent Publishing Platform
+6	Grand Central Publishing
+7	Universe
+8	Da Capo Press
+9	Pantheon
+10	Gibbs Smith
+11	Houghton Mifflin Harcourt
+12	Ecco
+13	Harper
+14	W. W. Norton & Company
+15	St. Martin's Press
+16	Algonquin Books
+17	PublicAffairs
+18	Basic Books
+19	Arcade Publishing
+20	Dey Street Books
+21	Penguin Books
+22	Vintage
+23	Spiegel & Grau
+24	Quirk Books
+25	Portfolio
+26	F First Edition
+27	Crown Business
+28	Simon & Schuster
+29	Viking
+30	Harvard Business Review Press
+31	Doubleday
+32	Potter Style
+33	Moleskine
+34	Time Factory
+35	Collier Publishing LLC
+36	Ansel Adams
+37	Llewellyn Publications
+38	Andrews McMeel Publishing
+39	Workman Publishing Company
+40	Old Farmer's Almanac
+41	Sellers Publishing Inc
+42	DK Children
+43	Little Simon
+44	Random House Books for Young Readers
+45	HarperFestival
+46	Candlewick
+47	Philomel Books
+48	Cartwheel Books
+49	Priddy Books
+50	Arthur A. Levine Books
+51	Scholastic Inc
+52	Balzer + Bray
+53	Zonderkidz
+54	B&H Books
+55	WaterBrook
+56	Northfield Publishing
+57	Tyndale House Publishers
+58	Zondervan
+59	Reader's Digest
+60	Harvest House Publishers
+61	Concordia Publishing House
+62	Ideals Childrens Books
+63	Golden Books
+64	Thomas Nelson
+65	Hachette Books
+66	Marian Press
+67	DC Comics
+68	Fantagraphics
+69	VIZ Media LLC
+70	Marvel
+71	Image Comics
+72	Harry N. Abrams
+73	Abrams ComicArts
+74	McGraw-Hill Education
+75	Auerbach Publications
+76	A K Peters/CRC Press
+77	Focal Press
+78	CRC Press
+79	Maker Media
+80	Jacqui Small LLP
+81	Ten Speed Press
+82	Artisan
+83	Storey Publishing
+84	Victory Belt Publishing
+85	Oxmoor House
+86	Clarkson Potter
+87	Rodale Books
+88	William Morrow Cookbooks
+89	Dover Publications
+90	CICO Books
+91	Timber Press
+92	"Little, Brown and Company"
+93	Grand Central Life & Style
+94	The Experiment
+95	powerHouse Books
+96	"""Stewart, Tabori and Chang"""
+97	Quadrille Publishing
+98	Adams Media
+99	Princeton Review
+100	Kaplan Publishing
+101	College Board
+102	Living Language
+103	Scribner
+104	Wiley
+105	Jossey-Bass
+106	Gallery Books
+107	Atria/Keywords Press
+108	Graywolf Press
+109	Knopf
+110	Jericho Books
+111	Dial Books
+112	Picador
+113	"Farrar, Straus and Giroux"
+114	Merge Press
+115	Upswing Press
+116	Brynth Press
+117	The University of North Carolina Press
+118	Laurence King Publishing
+119	Amber-Allen Publishing
+120	Hazelden
+121	Gallup Press
+122	Bantam Books
+123	Harmony Books
+124	Flatiron Books
+125	Namaste Publishing
+126	North Star Way
+127	Other Press
+128	Atlantic Monthly Press
+129	Anchor
+130	Regnery Publishing
+131	Ballantine Books
+132	Sarah Crichton Books
+133	Running Press
+134	Jawbone Press
+135	Peter Owen Publishers
+136	Law School Admission Council
+137	Oxford University Press
+138	Riverhead Books
+139	Pamela Dorman Books
+140	American Psychological Association
+141	Pearson
+142	Greystone Books
+143	Jourdain-Michael
+144	Maxwell Pub Co
+145	LWW
+146	Picador
+147	Touchstone
+148	Saunders
+149	Mosby
+150	Kensington
+151	Signet
+152	Seventh Street Books
+153	Forge Books
+154	Mira
+155	Soho Crime
+156	Amer Girl
+157	Minotaur Books
+158	Broadway Books
+159	Dell
+160	New Harvest
+161	Moody Publishers
+162	Howard Books
+163	Two Lions
+164	Morgan James Publishing
+165	Pocket Books
+166	The New Press
+167	TarcherPerigee
+168	Filiquarian
+169	Back Bay Books
+170	First Edition
+171	Twelve
+172	First Second
+173	Oni Press
+174	Sybex
+175	STC Craft/A Melanie Falick Book; Spi Har/Pa edition
+176	Everything Books
+177	Homofactus
+178	Currency
+179	Avon
+180	Inner Traditions
+181	Wexford College Press
+182	HMH Books
+183	Sourcebooks
+184	Destiny
+185	Rupa
+186	NYRB
+187	Westland
+188	Beacon
+189	Templar
+190	Talisman

@@ -1,0 +1,25 @@
+1	Black
+2	Yellow
+3	White
+4	Red
+5	Purple
+6	Pink
+7	Brown
+8	Khaki
+9	Camel
+10	Green
+11	Blue
+12	Pansy
+13	Gray
+14	Mauve
+15	Beige
+16	Peachpuff
+17	palegreen
+18	olive green
+19	aquamarine blue
+20	navy blue
+21	wine red
+22	rosybrown
+23	silver
+24	gold
+25	wheat

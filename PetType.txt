@@ -1,0 +1,7 @@
+"1","Dog"
+"2","Cat"
+"3","Fish & Aquatic"
+"4","Bird"
+"5","Horse"
+"6","Reptiles & Amphibians"
+"7","Rabbits, Guinea Pigs &  Hamsters"

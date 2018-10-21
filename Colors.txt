@@ -1,0 +1,76 @@
+1	Ivory
+2	Buff
+3	Sand Beig
+4	Nude
+5	Natural Beige
+6	Modium Beige
+7	Fresh Beige
+8	Golden Beige
+9	Warm Golden
+10	True Beige
+11	Natural Tan
+12	Early Tan
+13	Rich Tan
+14	Golden Caramel
+15	Toast
+16	Rich Ginger
+17	Caramel
+18	Cappuccino
+19	Mahogany
+20	Mocha
+21	Black
+22	Black Brown
+23	Carbon Black
+24	Black Drama
+25	Blackest Black
+26	No Color
+27	Mixed
+28	The Blushed
+29	The Nudes
+30	The Rock Nudes
+31	Alloy
+32	Amber
+33	Cassis
+34	Dahlia
+35	Dune
+36	Espresso
+37	Grace
+38	Neon
+39	White
+40	Yellow
+41	Blue
+42	Pink
+43	Rose
+44	Blonde
+45	Audrey
+46	cherry
+47	red
+48	Berry
+49	Hibiscus
+50	Plum
+51	Velvet
+52	brown
+53	peach
+54	Standout
+55	Super Model
+56	orange
+57	beige
+58	Translucent
+59	purple
+60	Incessant Russet
+61	Beige Rose
+62	multiple
+63	Rum Raisin
+64	burgundy
+65	mademoiselle
+66	Fiji
+67	Dive Bride
+68	Aqua
+69	Yellowish pink
+70	Bronze
+71	pale pink
+72	classic ivory
+73	baige
+74	glittering gold
+75	muave
+76	coral sheen
